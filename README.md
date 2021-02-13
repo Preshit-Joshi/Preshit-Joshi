@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Preshit-Joshi&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Preshit-Joshi&count_private=true&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Preshit-Joshi&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Preshit-Joshi&langs_count=5&theme=tokyonight)()
 <!--
 **Preshit-Joshi/Preshit-Joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
