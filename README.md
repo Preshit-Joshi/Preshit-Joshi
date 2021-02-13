@@ -1,7 +1,7 @@
 ### Hey there,I'm Preshit 👋
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Preshit-Joshi&count_private=true&show_icons=true&hide=stars,issues&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Preshit-Joshi&count_private=true&show_icons=true&hide=stars&theme=radical)
 
 <!--
 **Preshit-Joshi/Preshit-Joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
